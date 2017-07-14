@@ -11,4 +11,4 @@ More information on the "info" folder
 
 # Note
 
-Download the repo for better understanding of the puzzle itself.
+Download the information file for your system for better understanding of the puzzle itself.
